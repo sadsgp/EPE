@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="1207 1107  12 12" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 1208 1110  A 2 2 0 0 1 1210 1108 L 1216 1108  A 2 2 0 0 1 1218 1110 L 1218 1116  A 2 2 0 0 1 1216 1118 L 1210 1118  A 2 2 0 0 1 1208 1116 L 1208 1110  Z " fill-rule="nonzero" fill="#f0f0f0" stroke="none" />
-  <path d="M 1207.5 1110  A 2.5 2.5 0 0 1 1210 1107.5 L 1216 1107.5  A 2.5 2.5 0 0 1 1218.5 1110 L 1218.5 1116  A 2.5 2.5 0 0 1 1216 1118.5 L 1210 1118.5  A 2.5 2.5 0 0 1 1207.5 1116 L 1207.5 1110  Z " stroke-width="1" stroke="#000000" fill="none" stroke-opacity="0.349019607843137" />
-  <path d="M 1209.57142857143 1113  L 1212.14285714286 1115.57142857143  " stroke-width="2.57142857142857" stroke="#000000" fill="none" stroke-opacity="0.349019607843137" />
-  <path d="M 1212.14285714286 1115.57142857143  L 1216.42857142857 1109.57142857143  " stroke-width="2.57142857142857" stroke="#000000" fill="none" stroke-opacity="0.349019607843137" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="1207 1071  12 12" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 1208 1074  A 2 2 0 0 1 1210 1072 L 1216 1072  A 2 2 0 0 1 1218 1074 L 1218 1080  A 2 2 0 0 1 1216 1082 L 1210 1082  A 2 2 0 0 1 1208 1080 L 1208 1074  Z " fill-rule="nonzero" fill="#f0f0f0" stroke="none" />
+  <path d="M 1207.5 1074  A 2.5 2.5 0 0 1 1210 1071.5 L 1216 1071.5  A 2.5 2.5 0 0 1 1218.5 1074 L 1218.5 1080  A 2.5 2.5 0 0 1 1216 1082.5 L 1210 1082.5  A 2.5 2.5 0 0 1 1207.5 1080 L 1207.5 1074  Z " stroke-width="1" stroke="#000000" fill="none" stroke-opacity="0.349019607843137" />
+  <path d="M 1209.57142857143 1077  L 1212.14285714286 1079.57142857143  " stroke-width="2.57142857142857" stroke="#000000" fill="none" stroke-opacity="0.349019607843137" />
+  <path d="M 1212.14285714286 1079.57142857143  L 1216.42857142857 1073.57142857143  " stroke-width="2.57142857142857" stroke="#000000" fill="none" stroke-opacity="0.349019607843137" />
 </svg>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="1207 722  12 12" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 1208 725  A 2 2 0 0 1 1210 723 L 1216 723  A 2 2 0 0 1 1218 725 L 1218 731  A 2 2 0 0 1 1216 733 L 1210 733  A 2 2 0 0 1 1208 731 L 1208 725  Z " fill-rule="nonzero" fill="#f0f0f0" stroke="none" />
-  <path d="M 1207.5 725  A 2.5 2.5 0 0 1 1210 722.5 L 1216 722.5  A 2.5 2.5 0 0 1 1218.5 725 L 1218.5 731  A 2.5 2.5 0 0 1 1216 733.5 L 1210 733.5  A 2.5 2.5 0 0 1 1207.5 731 L 1207.5 725  Z " stroke-width="1" stroke="#000000" fill="none" stroke-opacity="0.349019607843137" />
-  <path d="M 1209.57142857143 728  L 1212.14285714286 730.571428571429  " stroke-width="2.57142857142857" stroke="#000000" fill="none" stroke-opacity="0.349019607843137" />
-  <path d="M 1212.14285714286 730.571428571429  L 1216.42857142857 724.571428571429  " stroke-width="2.57142857142857" stroke="#000000" fill="none" stroke-opacity="0.349019607843137" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="1207 687  12 12" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 1208 690  A 2 2 0 0 1 1210 688 L 1216 688  A 2 2 0 0 1 1218 690 L 1218 696  A 2 2 0 0 1 1216 698 L 1210 698  A 2 2 0 0 1 1208 696 L 1208 690  Z " fill-rule="nonzero" fill="#f0f0f0" stroke="none" />
+  <path d="M 1207.5 690  A 2.5 2.5 0 0 1 1210 687.5 L 1216 687.5  A 2.5 2.5 0 0 1 1218.5 690 L 1218.5 696  A 2.5 2.5 0 0 1 1216 698.5 L 1210 698.5  A 2.5 2.5 0 0 1 1207.5 696 L 1207.5 690  Z " stroke-width="1" stroke="#000000" fill="none" stroke-opacity="0.349019607843137" />
+  <path d="M 1209.57142857143 693  L 1212.14285714286 695.571428571429  " stroke-width="2.57142857142857" stroke="#000000" fill="none" stroke-opacity="0.349019607843137" />
+  <path d="M 1212.14285714286 695.571428571429  L 1216.42857142857 689.571428571429  " stroke-width="2.57142857142857" stroke="#000000" fill="none" stroke-opacity="0.349019607843137" />
 </svg>
